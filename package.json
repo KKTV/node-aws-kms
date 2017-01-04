@@ -1,0 +1,29 @@
+{
+  "name": "kms",
+  "version": "1.0.0",
+  "description": "Easy to use lib for AWS KMS encryption and decryption",
+  "main": "lib/kms.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KKTV/node-aws-kms.git"
+  },
+  "keywords": [
+    "kms",
+    "aws",
+    "node"
+  ],
+  "dependencies": {
+    "bluebird": "3.3.5"
+  },
+  "peerDependencies": {
+    "aws-sdk": "2.x"
+  },
+  "author": "GDX Wu <gdxwu@kktv.me>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KKTV/node-aws-kms/issues"
+  },
+  "homepage": "https://github.com/KKTV/node-aws-kms#readme"
+}
