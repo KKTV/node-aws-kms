@@ -2,7 +2,7 @@ node-aws-kms is a Node package that can helps you to encrypt/decrypt data in a e
 
 # Important
 
-Always remenber to configure aws-sdk before using it
+Always remember to configure aws-sdk before using it
 
 ```js
 
